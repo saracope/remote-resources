@@ -13,6 +13,8 @@ https://remoteok.io
 https://codepen.io/jobs  
 https://www.usajobs.gov (search on keywords location negotiable)
 
+Newsletters:  
+[Remotive Tips](https://remoteworking.curated.co)  
 
 Collaboration tools:
 
