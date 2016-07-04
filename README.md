@@ -11,7 +11,7 @@ http://www.powertofly.com
 https://www.flexjobs.com (paid subscription required, $14.99/monthly unless they're running a deal)  
 https://remoteok.io  
 https://codepen.io/jobs  
-https://www.usajobs.gov (search on keywords location negotiable)
+https://www.usajobs.gov (search on keywords 'location negotiable')
 
 Newsletters:  
 [Remotive Tips](https://remoteworking.curated.co)  
