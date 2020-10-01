@@ -12,6 +12,7 @@ https://www.flexjobs.com (paid subscription required, $14.99/monthly unless they
 https://remoteok.io  
 https://codepen.io/jobs  
 https://www.usajobs.gov (search on keywords 'location negotiable')
+https://standardresume.co/remote-jobs (filter for remote jobs hiring from your location)
 
 Newsletters:  
 [Remotive Tips](https://remoteworking.curated.co)  
